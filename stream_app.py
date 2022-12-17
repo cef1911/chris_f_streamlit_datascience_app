@@ -13,7 +13,7 @@ My name is Chris Franklin. I work in data science as a fulltime as business anal
 I have completed projects on web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
 I also cheerfully volunteer doing data science mentoring with 2U.com. 
 
-My Data Science Instruction content is being created and will distribute in the future.
+My Data Science Instruction content is being created and will be distributed in the future.
 
 Here is my LinkedIn info
 https://www.linkedin.com/in/christopherefranklin/
