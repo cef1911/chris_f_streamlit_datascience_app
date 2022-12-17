@@ -11,7 +11,8 @@ See the website for more info https://streamlit.io/
 
 My name is Chris Franklin. I work in data science as a fulltime as business analyst and outside of work I work on several data science projects.  
 I have completed projects on web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
-I cheerfully volunteer doing data science mentoring with 2U.com. 
+I also cheerfully volunteer doing data science mentoring with 2U.com. 
+
 My Data Science Instruction content is being created and will distribute in the future.
 
 Here is my LinkedIn info
