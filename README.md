@@ -1,4 +1,4 @@
-# chris_f_streamlit_datascience_app
+# Chris_F_streamlit_datascience_app
 
 Edit /streamlit_app.py to customize this app to your heart's desire. ❤️
 
