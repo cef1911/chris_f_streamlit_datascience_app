@@ -24,6 +24,7 @@ Here is my Applied Data Science Lab Website.
 
 https://franklydata.wixsite.com/franklydata
 
+From StreamLit Documentation Below:
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
