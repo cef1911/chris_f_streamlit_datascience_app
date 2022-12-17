@@ -9,7 +9,7 @@ import streamlit as st
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-My name is Chris Franklin. I work as in data science as a fulltime as business analyst for a Fortune 500 company and outside of work I work on several data science projects. My sentiment analysis, time-series, nlp, and data visualizations of all types.
+My name is Chris Franklin. I work in data science as a fulltime as business analyst for a Fortune 500 company and outside of work I work on several data science projects. My sentiment analysis, time-series, nlp, and data visualizations of all types.
 Here is my LinkedIn info
 https://www.linkedin.com/in/christopherefranklin/
 
