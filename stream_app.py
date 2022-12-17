@@ -20,7 +20,7 @@ https://www.linkedin.com/in/christopherefranklin/
 
 
 Everything in my data science world continues to elevate. Watch my Journey!!!
-Here my Applied Data Science Lab Website. 
+Here is my Applied Data Science Lab Website. 
 
 https://franklydata.wixsite.com/franklydata
 
