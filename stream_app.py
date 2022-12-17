@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Chris Franklin's Streamlit Web App for Deploying Datascience Projects!
+# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
