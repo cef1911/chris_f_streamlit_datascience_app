@@ -9,11 +9,18 @@ import streamlit as st
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-My name is Chris Franklin. I work in data science as a fulltime as business analyst for a Fortune 500 company and outside of work I work on several data science projects. My sentiment analysis, time-series, nlp, and data visualizations of all types.
+My name is Chris Franklin. I work in data science as a fulltime as business analyst and outside of work I work on several data science projects.  
+I have completed projects on web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
+I cheerfully volunteer doing data science mentoring with 2U.com. 
+My Data Science Instruction content is being created and will distribute in the future.
+
 Here is my LinkedIn info
 https://www.linkedin.com/in/christopherefranklin/
 
-Here my my personal applied data science lab website
+
+Everything in my data science world continues to elevate. Watch my Journey!!!
+Here my Applied Data Science Lab Website. 
+
 https://franklydata.wixsite.com/franklydata
 
 
