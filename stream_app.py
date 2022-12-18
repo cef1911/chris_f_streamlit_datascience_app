@@ -29,7 +29,7 @@ Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. 
 https://colab.research.google.com/drive/16ILWejhcam279Aetc8QGanhyeuSPIbQA
 
 
-StreamLit.io content from their website example
+StreamLit.io content example from their website
 
 StreamLit Documentation below:
 
