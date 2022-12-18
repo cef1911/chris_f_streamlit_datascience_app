@@ -29,8 +29,9 @@ Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. 
 https://colab.research.google.com/drive/16ILWejhcam279Aetc8QGanhyeuSPIbQA
 
 
-StreamLit.io content below
-From StreamLit Documentation Below:
+StreamLit.io content from their website example
+
+StreamLit Documentation below:
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
