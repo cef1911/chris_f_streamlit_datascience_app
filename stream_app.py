@@ -9,27 +9,18 @@ import streamlit as st
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-My name is Chris Franklin. I work in data science as a fulltime business analyst and outside of work I work on several data science projects.  
+My name is Chris Franklin. I work in data science on several data science projects.  
 I have completed projects in web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
-I also cheerfully volunteer doing data science mentoring with 2U.com. 
+I also cheerfully volunteer doing data science mentoring. 
 
-My Data Science Instruction content is being created and will be distributed in the future.
-
-Here is my LinkedIn info
-https://www.linkedin.com/in/christopherefranklin/
-
-
-Everything in my data science world continues to elevate. Watch my Journey!!!
-Here is my Applied Data Science Lab Website. 
-
-https://franklydata.wixsite.com/franklydata
-
-Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. Run the code by signing into a gmail account.
+Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. Run the code by signing into a gmail account. 
+I will be deploying my Twitter Sentiment Analysis Project on Streamlit in the future:)
 
 https://colab.research.google.com/drive/16ILWejhcam279Aetc8QGanhyeuSPIbQA
 
 
 StreamLit.io content example from their website
+
 
 StreamLit Documentation below:
 
@@ -60,3 +51,50 @@ with st.echo(code_location='below'):
     st.altair_chart(alt.Chart(pd.DataFrame(data), height=500, width=500)
         .mark_circle(color='#0068c9', opacity=0.5)
         .encode(x='x:Q', y='y:Q'))
+    
+st.write("Streamlit Play:) creating dataframes and plotly plots")
+
+df = pd.DataFrame(
+   np.random.randn(50, 20),
+   columns=('col %d' % i for i in range(20)))
+
+
+  
+
+st.dataframe(df)  # Same as st.write(df)
+
+lst = [['Geek', 25], ['is', 30], 
+       ['for', 26], ['Geeksforgeeks', 22]] 
+
+# creating df object with columns specified    
+df2 = pd.DataFrame(lst, columns =['Tag', 'number']) 
+
+df2.plot()
+
+st.dataframe(df2)  # Same as st.write(df)
+
+
+#another dataframe https://docs.streamlit.io/library/api-reference/charts/st.plotly_chart
+df3 = px.data.gapminder()
+
+fig = px.scatter(
+    df3.query("year==2007"),
+    x="gdpPercap",
+    y="lifeExp",
+    size="pop",
+    color="continent",
+    hover_name="country",
+    log_x=True,
+    size_max=60,
+)
+
+tab1, tab2 = st.tabs(["Streamlit theme (default)", "Plotly native theme"])
+with tab1:
+    # Use the Streamlit theme.
+    # This is the default. So you can also omit the theme argument.
+    st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+with tab2:
+    # Use the native Plotly theme.
+    st.plotly_chart(fig, theme=None, use_container_width=True)
+
+st.dataframe(df3)
