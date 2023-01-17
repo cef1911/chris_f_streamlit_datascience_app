@@ -54,28 +54,25 @@ with st.echo(code_location='below'):
     
 st.write("Streamlit Play:) creating dataframes and plotly plots")
 
-df = pd.DataFrame(
-   np.random.randn(50, 20),
-   columns=('col %d' % i for i in range(20)))
-
-
-  
+    df = pd.DataFrame(
+    np.random.randn(50, 20),
+    columns=('col %d' % i for i in range(20)))
 
 st.dataframe(df)  # Same as st.write(df)
 
-lst = [['Geek', 25], ['is', 30], 
+    lst = [['Geek', 25], ['is', 30], 
        ['for', 26], ['Geeksforgeeks', 22]] 
 
 # creating df object with columns specified    
-df2 = pd.DataFrame(lst, columns =['Tag', 'number']) 
+    df2 = pd.DataFrame(lst, columns =['Tag', 'number']) 
 
-df2.plot()
+    df2.plot()
 
 st.dataframe(df2)  # Same as st.write(df)
 
 
 #another dataframe https://docs.streamlit.io/library/api-reference/charts/st.plotly_chart
-df3 = px.data.gapminder()
+    df3 = px.data.gapminder()
 
 fig = px.scatter(
     df3.query("year==2007"),
