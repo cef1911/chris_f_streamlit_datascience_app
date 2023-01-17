@@ -3,7 +3,6 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-import matplotlib as plt
 import plotly.express as px
 
 """
