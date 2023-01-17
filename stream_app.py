@@ -14,7 +14,7 @@ I have completed projects in web-scraping, sentiment analysis, time-series, nlp,
 I also cheerfully volunteer doing data science mentoring. 
 
 Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. Run the code by signing into a gmail account. 
-I will be deploying my Twitter Sentiment Analysis Project on Streamlit in the future:)
+I will be deploying my Twitter Sentiment Analysis Project on Streamlit in the future :)
 
 https://colab.research.google.com/drive/16ILWejhcam279Aetc8QGanhyeuSPIbQA
 
