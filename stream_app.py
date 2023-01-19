@@ -34,11 +34,11 @@ forums](https://discuss.streamlit.io).
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
 
-# chart_data = pd.DataFrame(
-#     np.random.randn(20, 3),
-#     columns=["a", "b", "c"])
+chart_data = pd.DataFrame(
+     np.random.randn(20, 3),
+     columns=["a", "b", "c"])
 
-# st.bar_chart(chart_data)
+ st.bar_chart(chart_data)
 
 # # Add histogram data
 # x1 = np.random.randn(200) - 2
