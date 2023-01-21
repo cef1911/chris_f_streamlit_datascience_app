@@ -17,6 +17,11 @@ My name is Chris Franklin. I work in data science on several data science projec
 I have completed projects in web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
 I also cheerfully volunteer doing data science mentoring. 
 
+My primary programming language for data science projects is Python. 
+
+My Applied Data Science Lab Website is accessible at this url:
+https://franklydata.wixsite.com/franklydata
+
 Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. Run the code by signing into a gmail account. 
 I will be deploying my Twitter Sentiment Analysis Project on Streamlit in the future :)
 
