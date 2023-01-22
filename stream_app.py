@@ -17,7 +17,7 @@ My name is Chris Franklin. I work in data science on several data science projec
 I have completed projects in web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
 I also cheerfully volunteer doing data science mentoring. 
 
-This Streamlit.io web app generated through this GitHub repo: 
+This Streamlit web app generated through GitHub repo: 
 https://cef1911-chris-f-streamlit-datascience-app-stream-app-5p099v.streamlit.app/
 
 My primary programming language for data science projects is Python. 
