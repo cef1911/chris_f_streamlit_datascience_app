@@ -18,6 +18,7 @@ I have completed projects in web-scraping, sentiment analysis, time-series, nlp,
 I also cheerfully volunteer doing data science mentoring. 
 
 Streamlit web app generated through GitHub repo: 
+
 https://cef1911-chris-f-streamlit-datascience-app-stream-app-5p099v.streamlit.app/
 
 My primary programming language for data science projects is Python. 
