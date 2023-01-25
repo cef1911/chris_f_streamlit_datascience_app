@@ -127,4 +127,4 @@ with st.form("my_form"):
 st.write("Outside the form")
 
 
-st.form_submit_button(label="Submit", help=None, on_click=None, args=None, kwargs=None, *, type="secondary", disabled=False)
+
