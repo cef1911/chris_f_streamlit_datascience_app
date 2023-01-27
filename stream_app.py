@@ -4,6 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import numpy as np
+from streamlit_echarts import st_echarts
 #import plotly as px
 #import plotly.figure_factory as ff
 
@@ -161,7 +162,6 @@ option = st.selectbox(
 
 'You selected: ', option
 
-from streamlit_echarts import st_echarts
 
 options = {
     "xAxis": {
