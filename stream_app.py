@@ -126,6 +126,7 @@ with st.form("my_form"):
 
 st.write("Outside the form")
 
+"Plotting a Map with Streamlit, documentation code is from this url: https://docs.streamlit.io/library/get-started/main-concepts"
 
 map_data = pd.DataFrame(
     np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4],
