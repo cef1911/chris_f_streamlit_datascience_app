@@ -164,10 +164,4 @@ option = st.selectbox(
 'You selected: ', option
 
 
-'Starting a long computation...'
-
-# Add a placeholder
-latest_iteration = st.empty()
-bar = st.progress(0)
-
 
