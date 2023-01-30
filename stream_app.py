@@ -11,7 +11,7 @@ import time
 
 
 """
-# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects Hi Sir!
+# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
@@ -163,7 +163,7 @@ option = st.selectbox(
 
 'You selected: ', option
 
-st.balloons()
+#st.balloons()
 
-st.snow()
+#st.snow()
 
