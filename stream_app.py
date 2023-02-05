@@ -163,7 +163,7 @@ option = st.selectbox(
 
 'You selected: ', option
 
-#st.balloons()
+st.balloons()
 
-#st.snow()
+st.snow()
 
