@@ -11,7 +11,7 @@ import time
 
 
 """
-# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
+# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects Khori have fun!
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
