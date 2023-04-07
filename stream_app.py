@@ -167,11 +167,11 @@ option = st.selectbox(
 
 # st.snow()
 
-import streamlit as st, random, time    
+# import streamlit as st, random, time    
 
-time.sleep(1)
-coins = ['http://re-bol.com/heads.jpg', 'http://re-bol.com/tails.jpg']
-coin = random.choice(coins)
-st.image(coin)
-if st.button('Flip'):
-  st.experimental_rerun()
+# time.sleep(1)
+# coins = ['http://re-bol.com/heads.jpg', 'http://re-bol.com/tails.jpg']
+# coin = random.choice(coins)
+# st.image(coin)
+# if st.button('Flip'):
+#   st.experimental_rerun()
