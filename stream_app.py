@@ -21,12 +21,12 @@ I also cheerfully volunteer doing data science mentoring.
 
 Streamlit web app generated through GitHub repo: 
 
-https://cef1911-chris-f-streamlit-datascience-app-stream-app-5p099v.streamlit.app/
+https://franklydata.streamlit.app/
 
 My primary programming language for data science projects is Python. 
 
 My Applied Data Science Lab Website is accessible at this url:
-https://franklydata.wixsite.com/franklydata
+https://franklydatascience.com
 
 Below is my Twitter Web-Scraping Sentiment Analysis Project using Google Colab. Run the code by signing into a gmail account. 
 I will be deploying my Twitter Sentiment Analysis Project on Streamlit in the future :)
